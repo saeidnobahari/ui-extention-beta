@@ -1,0 +1,17 @@
+{
+  "name": "hygraph-with-react-image",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "dev": "gatsby develop"
+  },
+  "dependencies": {
+    "@graphcms/react-image": "^1.1.0",
+    "gatsby": "2.21.8",
+    "gatsby-source-graphql": "2.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
